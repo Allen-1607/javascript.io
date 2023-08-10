@@ -8,7 +8,7 @@ const everydayPack = new Backpack(
   26,
   26,
   false,
-  "../assets/images/everyday.svg"
+  "everyday.svg"
 );
 
 const frogPack = new Backpack(
@@ -20,7 +20,7 @@ const frogPack = new Backpack(
   10,
   10,
   false,
-  "../assets/images/frog.svg"
+  "frog.svg"
 );
 
 const backpackObjectArray = [everydayPack, frogPack];
