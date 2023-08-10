@@ -1,5 +1,5 @@
 
-import backpackObjectArray from "./data";
+import backpackObjectArray from "./data.js";
 
 const backpackList = backpackObjectArray.map((backpack) => {
   let backpackArticle = document.createElement("article");
